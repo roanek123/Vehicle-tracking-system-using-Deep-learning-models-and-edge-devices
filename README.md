@@ -3,7 +3,7 @@
 The project aims to develop a Vehicle Counting System (VCS) using Image Recognition Technology (IRT), specifically leveraging the YOLOv8 model for its high accuracy, speed, and efficiency in object detection. It targets low-power platforms like the Raspberry Pi 3A+, making it suitable for widespread deployment in urban areas. The system captures traffic scenes, processes them to detect and count vehicles, and transmits data to support traffic management, contributing to improved flow and reduced congestion.
 
 
-![Thumbnail](https://github.com/user-attachments/assets/71140960-f53e-4f57-85d5-2a8c8f497985)
+![Screenshot 2025-03-24 164352](https://github.com/user-attachments/assets/38216585-f63f-4220-9e4b-fd9c8f14fc6c)
 
 ## Features
 The VCS offers a robust set of features, aligning with modern traffic management needs:
